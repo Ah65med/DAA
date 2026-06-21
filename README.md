@@ -8,6 +8,13 @@ and unchanged lines highlighted in real time.
 Built as a Design and Analysis of Algorithms (DAA) course project to
 demonstrate practical applications of classic algorithmic techniques.
 
+## Contributors
+
+- [@talal](https://github.com/talal-11)
+- [@ahmed](https://github.com/Ah65med)
+- [@neha](https://github.com/nehalq)
+- [@shayan](https://github.com/sfxdeve)
+
 ## Overview
 
 The tool takes two text inputs — an original and a modified version — and
