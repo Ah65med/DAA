@@ -10,7 +10,7 @@ demonstrate practical applications of classic algorithmic techniques.
 
 ## Contributors
 
-- [@talal](https://github.com/talal-11)
+- [@hassan](https://github.com/hassan-069)
 - [@ahmed](https://github.com/Ah65med)
 - [@neha](https://github.com/nehalq)
 - [@shayan](https://github.com/sfxdeve)
